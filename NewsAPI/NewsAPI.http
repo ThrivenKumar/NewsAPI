@@ -1,0 +1,6 @@
+@NewsAPI_HostAddress = https://newsapi.org/v2
+
+GET {{NewsAPI_HostAddress}}/everything/
+Accept: application/json
+
+###
